@@ -1,0 +1,15 @@
+.btnContainer {
+  border: 1px solid #000000cc;
+  border-radius: 25px;
+  padding: 1rem 4rem;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.btnContainer:hover {
+    background-color: #060606;
+}
