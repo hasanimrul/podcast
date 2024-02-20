@@ -1,0 +1,13 @@
+.cardContainer{
+ display: flex;
+ flex-direction: column;
+ gap: 1rem;
+}
+
+.cardItems button {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: -8rem;
+    bottom: 4rem;
+}

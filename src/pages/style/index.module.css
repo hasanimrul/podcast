@@ -2,10 +2,10 @@
   padding: 3rem;
 }
 .topContent {
-  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-bottom: 3rem;
 }
 .topContent h1 {
   font-family: Inter;
@@ -15,4 +15,18 @@
   letter-spacing: 0em;
   text-align: left;
   color: #ffffff;
+}
+
+
+
+.category {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 0;
+}
+
+.musicCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
